@@ -1,0 +1,37 @@
+Kernel: Linear
+
+Precision - Train Set 1.0
+Precision - Dev Set 0.0
+------------
+Confusion Matrix - Train Set
+[[5050    0]
+ [   0   37]]
+Confusion Matrix - Dev Set
+[[565   0]
+ [  5   0]]
+------------
+
+Kernel: Polynomial degree 4
+
+Precision - Train Set 1.0
+Precision - Dev Set 0.0
+------------
+Confusion Matrix - Train Set
+[[5050    0]
+ [   0   37]]
+Confusion Matrix - Dev Set
+[[559   6]
+ [  5   0]]
+------------
+
+Kernel: RBF (Gaussian)
+
+Precision - Train Set 1.0
+Precision - Dev Set 0.0
+------------
+Confusion Matrix - Train Set
+[[5050    0]
+ [   1   36]]
+Confusion Matrix - Dev Set
+[[565   0]
+ [  5   0]]
