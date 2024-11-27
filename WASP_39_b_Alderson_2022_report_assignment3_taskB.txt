@@ -1,0 +1,5 @@
+- Planets radius average: 1.280± 0.034 R_J
+- Planet mass: 0.28 ± 0.03 M_J 
+- Star temperature: 5400±150 K
+- Star raidus: 0.895 ± 0.023 R_⨀
+- Chemistry of the atmosphere in the related paper: they detected significant absorption from CO2 (28.5 σ), H20 (21.5 σ) and SO2 (4.8 σ). The best fit atmospheric models range between 3x and 10x solar metallicity.
