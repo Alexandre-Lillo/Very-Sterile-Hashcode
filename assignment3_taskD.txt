@@ -1,0 +1,15 @@
+Input parameters:
+
+Planet radius: 1.27 M_J
+Temperature: 1200.0 K
+H2O abundance: 1.2e-4
+
+
+Retrieved parameters:
+
+Planet radius: 1.17 M_J
+Temperature: 1000.1 K
+H2O abundance: 0.00012
+
+
+Mean error: 0.000207 (the downloaded datafile contained the error for each data point; this number shown here is the average)
