@@ -1,15 +1,15 @@
 Input parameters:
 
-Planet radius: 1.138 M_J
+Planet radius: 1.138 R_J
 Temperature: 1200.0 K
 H2O abundance: 1.2e-4
 
 
 Retrieved parameters:
 
-Planet radius: 1.2246 M_J
+Planet radius: 1.2246 R_J
 Temperature: 1087.0 K
 H2O abundance: 0.01905
 
 
-Error: 0.000236 (constant error obtained using the following equation: err = np.zeros(len(depth)) + np.std(depth))
+Error: 0.00024 (error obtained using the following equation: err = np.zeros(len(depth)) + np.std(depth))
